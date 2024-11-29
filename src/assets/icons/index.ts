@@ -1,0 +1,21 @@
+export enum Icons {
+  DEBUG_ICONS = require('./debug.png'),
+  IDENTITY = require('./identity.png'),
+  INFO = require('./information.png'),
+  UP_ARROW = require('./up-arrow.png'),
+  DOWN_ARROW = require('./down-arrow.png'),
+  TIMELINE = require('./timeline.png'),
+  RIGHT_ARROW = require('./next.png'),
+
+  DOCUMENT = require('./document.png'),
+  BULB = require('./bulb.png'),
+  HISTORY = require('./history.png'),
+  WARNING = require('./warning.png'),
+  LOCATION = require('./location.png'),
+  FAQ = require('./question.png'),
+  ROAD = require('./road.png'),
+  INJURED = require('./injury.png'),
+  CAR = require('./car.png'),
+  PLANE = require('./plane.png'),
+  STETHESCOPE = require('./stethoscope.png'),
+}

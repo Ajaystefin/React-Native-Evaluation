@@ -1,0 +1,10 @@
+{
+  "claimType": "Claim Type",
+  "nationalIdPlaceholder": "National ID/IQAMA No.",
+  "caseReferencePlaceholder": "Case Reference No.",
+  "registerClaimButton": "Register a Claim",
+  "trackYourClaim": "Track Your Claim",
+  "trackClaimDescription": "Lorem Ipsum is simply dummy text.",
+  "otherServicesHeader": "Other Services",
+  "otherServicesDescription": "Lorem Ipsum is simply dummy text."
+}
